@@ -8,6 +8,8 @@ Return the minimum maximum sum.
 
 The input consists of two lines; the second line is the numbers array; the first line has the length of the numbers array n and number of groupsk. Output should be a single number that is the minimum maximum sum among the groups.
 
+___Done in Python___
+
 ### Example 1
 
 Input:
