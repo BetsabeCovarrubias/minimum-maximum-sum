@@ -1,4 +1,5 @@
-Backtracking
+# Minimum Maximum Sum
+## Backtracking
 
 We are given an integer array numbers where numbers[i] is the i-th number. We assign the n numbers to k groups. Each number is assigned to exactly one group. Find the assignment such that the maximum sum of the groups is minimized.
 
@@ -6,11 +7,13 @@ Return the minimum maximum sum.
 
 The input consists of two lines; the second line is the numbers array; the first line has the length of the numbers array n and number of groupsk. Output should be a single number that is the minimum maximum sum among the groups.
 
-Example 1
+### Example 1
 
-Input:
+Input: 
 3 3
+
 3 2 3
+
 Output:
 3
 Explanation:
