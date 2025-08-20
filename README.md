@@ -1,5 +1,5 @@
 # Minimum Maximum Sum
-10/24
+10/2024
 ## Backtracking
 
 We are given an integer array numbers where numbers[i] is the i-th number. We assign the n numbers to k groups. Each number is assigned to exactly one group. Find the assignment such that the maximum sum of the groups is minimized.
