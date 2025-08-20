@@ -9,24 +9,40 @@ The input consists of two lines; the second line is the numbers array; the first
 
 ### Example 1
 
-Input: 
+Input:
+
 3 3
 
 3 2 3
 
 Output:
+
 3
-Explanation:
+
+#### Explanation:
+
 Assigning each number to each worker leads to maximum sum 3.
+
 No other assignment can have lower maximum sum.
-Example 2
+
+### Example 2
 
 Input:
+
 5 2
+
 1 2 4 7 8
+
 Output:
+
 11
-Explanation:
-Assignment: group 1: 1,2,8, sum: 11
+
+#### Explanation:
+
+Assignment: 
+
+group 1: 1,2,8, sum: 11
+
 group 2: 4,7, sum: 11
+
 No other assignments can be lower maximum sum.
